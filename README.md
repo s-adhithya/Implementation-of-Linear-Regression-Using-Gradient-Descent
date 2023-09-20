@@ -84,8 +84,9 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![Screenshot 2023-09-20 194055](https://github.com/s-adhithya/Implementation-of-Linear-Regres![Screenshot 2023-09-20 194305](https://github.com/s-adhithya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497423/cea5f224-490f-4ffa-92bc-3ef173aacdbb)
-sion-Using-Gradient-Descent/assets/113497423/f78d7838-4c67-4982-887f-653f77214ca6)
+![Screenshot 2023-09-20 194055](https://github.com/s-adhithya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497423/9dc0911c-dbc1-446f-8dbd-b419bffb28d4)
+![Screenshot 2023-09-20 194305](https://github.com/s-adhithya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497423/3ede281f-ee39-4221-91b1-3a3d4585ae80)
+
 ![Screenshot 2023-09-20 194323](https://github.com/s-adhithya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497423/11aee399-615e-48f3-afa7-b9a1b700bc83)
 ![Screenshot 2023-09-20 194343](https://github.com/s-adhithya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497423/45cd7318-9b37-46b8-ad8b-fb5aa01d9544)
 ![Screenshot 2023-09-20 194402](https://github.com/s-adhithya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497423/e9651843-81ef-4602-8f1a-c008e23beac9)
