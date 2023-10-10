@@ -25,8 +25,8 @@ To visualize the data use plt.plot.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+Developed by: Adhithya.S
+RegisterNumber:  212222240003
 */
 import numpy as np
 import matplotlib.pyplot as plt
